@@ -2,6 +2,14 @@
 
 A Google Apps Script to build draft plea emails from a spreadsheet.
 
+Input (Google Sheets spreadsheet):
+
+![spreadsheet](https://i.imgur.com/2nRaCRc.png)
+
+Output (draft email in Gmail):
+
+![email](https://i.imgur.com/igMpEDo.png)
+
 ## Usage
 
 This is still in development, so the steps are a bit manual and some values need
